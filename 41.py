@@ -1,5 +1,5 @@
 import math
-highestPrime = -1dtygdfctyfcddgyhh
+highestPrime = -1
 nums = '123456789'
 
 def isPrime(n):
